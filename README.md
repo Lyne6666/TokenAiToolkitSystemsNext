@@ -1,2 +1,1 @@
-# TokenAiToolkitSystemsNext
-Advanced TokenAiToolkitSystemsNext project
+.
